@@ -13,8 +13,11 @@ This project focuses on analysing Kmart sales data using Microsoft Excel. The da
 
 ## Dashboard Preview
 
-![KMART-Sales Dashboard](Screenshot Kmart.png)
-![KMART-Sales Dashboard](Screenshot Kmart2.png)
+## Dashboard Preview
+
+![Kmart Sales Dashboard](Screenshot Kmart.png)
+
+![Kmart Sales Dashboard](Screenshot Kmart2.png)
 
 
 ## Key Features
